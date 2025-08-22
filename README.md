@@ -5,5 +5,5 @@ weight = 84
 # Write your code here.
 # Calculate the bmi using weight and height.
 bmi = weight / (height ** 2)
-print("Your BMI is:", bmi)
+print("Your BMI is:", bmi)nm'
 
